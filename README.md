@@ -9,3 +9,7 @@ Análisis de Caso de estudio - Practicando con Java Script
 ¿Identifique si ya tiene una funcionalidad resultante hasta los primeros 26 minutos?  
 
 Describa cuál es. (5 puntos). Implemente la funcionalidad. 
+
+## Ultima entrega
+
+Hace todo el CRUD que se muestra en el video
